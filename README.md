@@ -38,6 +38,7 @@
 ---
 
 [Discord](https://discord.gg/TxN3RY79Sd)
+
 [Download](https://discord.gg/gj398RpuNc)
 
 
