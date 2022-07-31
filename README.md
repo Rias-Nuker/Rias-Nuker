@@ -33,13 +33,13 @@
 <!-- - [中文](/translations/zh-CN/README.md) -->
 <!-- - [繁體中文](/translations/zh-TW/README.md) -->
 
-**[Request another translation](mailto:zitatshuffle@gmail.com)**
+<!--**[Request another translation](mailto:zitatshuffle@gmail.com)**-->
 
 ---
 
-[Website](https://bs.mintimpuls.org)
-[Discord](https://discord.gg/gj398RpuNc)
-[Top.gg](https://top.gg/bot/820390986692821092)
+[Discord](https://discord.gg/TxN3RY79Sd)
+[Download](https://discord.gg/gj398RpuNc)
+
 
 Zitat Shuffle mixt zufällig Zitate mit berühmten Personen.
 
