@@ -39,50 +39,14 @@
 
 [Discord](https://discord.gg/TxN3RY79Sd)
 
-[Download](https://discord.gg/gj398RpuNc)
+[Download](Platzhalter)
 
-
-Zitat Shuffle mixt zufällig Zitate mit berühmten Personen.
-
-
-> **Info:** Mehr Infos werden bald hinzugefügt.
-
-Hier findest du die aktuellen Commands:
-
-#### Main Commands
-
-- **z!mix** - Damit kannst du dir einen zufälligen Zitaten/Autoren anzeigen lassen.
-- **z!commands** - Damit kannst du dir alle aktuellen Commands anzeigen lassen.
-- **z!funfact** - Mit diesem Command kannst du ein Funfact über Discord anzeigen lassen. (baserierend auf dem "wusstest du schon?" Text)
-- **z!server** - Damit kannst du du sehen auf wie vielen Servern der Bot ist.
-- **z!ping** - Damit kannst du deinen Ping anzeigen lassen.
-- **z!rp** - Damit kannst du dir die aktuellen rp Commands anzeigen lassen.
-
-#### Rp Commands
-
-- **z!welcome @[User] {mögliche Naricht}** - Damit kannst du jemanden begrüßen.
-- **z!suicide** - Damit bekommst du Selbstmord begehen.
-- **z!steal @[User]** - Damit kannst du jemanden bestehlen.
-- **z!hug @[User] {mögliche Naricht}** - Damit kannst du jemanden umarmen.
-- **z!shoot @[User] {mögliche Naricht}** - Damit kannst du jemanden erschießen.
-- **z!clap @[User] {mögliche Naricht}** - Damit kannst du für jemanden klatschen.
-- **z!yes** - Damit kannst du ganz einfach ja sagen.
-- **z!dead {mögliche Naricht}** - Damit kannst du Tot sein.
-- **z!kiss @[User] {mögliche Naricht}** - Damit kannst jemanden küssen.
-- **z!slap @[User] {mögliche Naricht}** - Damit kannst du jemanden eine Ohrfeige geben.
-
-#### Sonstige Commands
-
-- **z!top.gg** - Damit kommst du auf die Top.gg Website des Bots.
-- **z!discord** - Damit kommst du auf unserem Discord Server.
-- **z!website** - Damit kommst du auf unsere Website.
-- **z!dm @[Name] [Naricht]** - Damit kannst du eine person schnell und einfach eine DM schreiben. (Partner only Command)
 
 ---
 
-Wir hoffen das dir dieser Text weitergeholfen hat!
+We hope that this text has helped you!
 
-Zitat Shuffle Team
+Rias Team
 
 ---
 
