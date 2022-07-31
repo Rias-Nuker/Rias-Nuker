@@ -50,4 +50,4 @@ Rias Team
 
 ---
 
-[![cc-by-4.0](https://bs.mintimpuls.org/ZS%20Logo_git.png)](https://bs.mintimpuls.org)
+[![cc-by-4.0](Rias Logo.png)](https://bs.mintimpuls.org)
