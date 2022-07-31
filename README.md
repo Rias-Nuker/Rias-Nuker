@@ -50,4 +50,4 @@ Rias Team
 
 ---
 
-[![cc-by-4.0](Rias_Logo.png)](https://bs.mintimpuls.org)
+[![cc-by-4.0](Rias_Logo.png)](https://discord.gg/TxN3RY79Sd)
