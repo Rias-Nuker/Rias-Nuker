@@ -1,14 +1,14 @@
-# Zitat Shuffle Bot Dokumentation
+# Rias Nuker Documentation
 
 ## Translations
 
-- [English](/translations/eng/README.md)
+- [English](https://github.com/Rias-Nuker/Rias-Nuker)
 <!-- - [Afrikaans](/translations/af/README.md) -->
 <!-- - [العربية](/translations/ar/README.md) -->
 <!-- - [Català](/translations/ca/README.md) -->
 <!-- - [Čeština](/translations/cs/README.md) -->
 <!-- - [Danske](/translations/da/README.md) -->
-- [German](https://github.com/Zitat-Shuffle-Team/Bot-Documentation) 
+- [German](/translation/de/README.MD) 
 <!-- - [ελληνικά](/translations/el/README.md) -->
 <!-- - [Español](/translations/es-ES/README.md) -->
 <!-- - [Suomi](/translations/fi/README.md) -->
