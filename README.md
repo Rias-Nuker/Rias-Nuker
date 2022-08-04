@@ -59,7 +59,7 @@
 ##### TokenLogger - Preset Token logger will generate a file under your name to log discord tokens.
 ##### SelfBot - Perfect bot to utilise the functionality of a bot in the comfort of your account.
 ##### Casino - A small casino mini-game to pass time whilst utilising the tools features.
-##### NitroSnipe - A useful tool to await for a nitro gift before sniping it with great accuracy. 
+##### NitroSniper - A useful tool to await for a nitro gift before sniping it with great accuracy. 
 #####
         Plus Dozens of other features+ 
 ---
