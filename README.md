@@ -48,12 +48,20 @@
 
 #### Rias is a multitool designed to do everything you need in one program.
 
-### Useful Functions:
-##### NukeBot - A Nuke Bot to delete all channels/roles and spam new channels with custom text
-##### SelfSpammer - A universal spammer for every program with input
-##### WebhookSpammer - Spams a Discord Webhook with custom text
-##### GmailSpammer - Spams a Gmail Account (beware that your spam email could/will be banned)
-##### UserHunter - Searches a Username over many public social networks and other websites
+### Our Top Useful Functions:
+##### NukeBot - A Nuke Bot to delete all channels/roles and spam new channels with custom text.
+##### SelfSpammer - A universal spammer for every program with input.
+##### WebhookSpammer - Spams a Discord Webhook with custom text.
+##### GmailSpammer - Spams a Gmail Account (beware that your spam email could/will be banned).
+##### UserHunter - Searches a Username over many public social networks and other websites.
+##### ProxyGen - Generates Proxies in mass for your own uses.
+##### ProxyCheck - Determines if proxies are valid or invalid without wasting time.
+##### TokenLogger - Preset Token logger will generate a file under your name to log discord tokens.
+##### SelfBot - Perfect bot to utilise the functionality of a bot in the comfort of your account.
+##### Casino - A small casino mini-game to pass time whilst utilising the tools features.
+##### NitroSnipe - A useful tool to await for a nitro gift before sniping it with great accuracy. 
+#####
+        Plus Dozens of other features+ 
 ---
 
 We hope that this text has helped you!
