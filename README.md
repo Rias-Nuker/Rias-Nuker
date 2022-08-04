@@ -39,7 +39,7 @@
 
 [Discord](https://discord.gg/TxN3RY79Sd)
 
-[Download](Platzhalter)
+[Download](https://github.com/Rias-Nuker/Rias-Nuker/releases)
 
 
 ---
