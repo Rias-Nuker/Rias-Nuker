@@ -68,4 +68,4 @@ Rias Team
 
 ---
 
-[![cc-by-4.0](Rias_Logo.png)](https://discord.gg/TxN3RY79Sd)
+[![cc-by-4.0](https://github.com/Rias-Nuker/Rias-Nuker/blob/main/Rias_Logo.png)](https://discord.gg/TxN3RY79Sd)
