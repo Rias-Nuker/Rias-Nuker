@@ -48,7 +48,7 @@
 
 Rias is a multitool designed to do everything you need in one program.
 
-Useful Commands:
+### Useful Commands:
 ---
 
 We hope that this text has helped you!
