@@ -48,7 +48,8 @@
 
 Rias is a multitool designed to do everything you need in one program.
 
-### Useful Commands:
+### Useful Functions:
+NukeBot - a Nuke Bot to delete all channels/roles and spam new channels with custom text
 ---
 
 We hope that this text has helped you!
