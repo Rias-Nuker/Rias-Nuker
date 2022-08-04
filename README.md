@@ -8,7 +8,7 @@
 <!-- - [Català](/translations/ca/README.md) -->
 <!-- - [Čeština](/translations/cs/README.md) -->
 <!-- - [Danske](/translations/da/README.md) -->
-<!-- - [German](/translations/de/README.MD) --> 
+- [German](/translations/de/README.MD) 
 <!-- - [ελληνικά](/translations/el/README.md) -->
 <!-- - [Español](/translations/es-ES/README.md) -->
 <!-- - [Suomi](/translations/fi/README.md) -->
