@@ -48,18 +48,53 @@
 
 #### Rias is a multitool designed to do everything you need in one program.
 
-### Our Top Useful Functions:
-##### NukeBot - A Nuke Bot to delete all channels/roles and spam new channels with custom text.
-##### SelfSpammer - A universal spammer for every program with input.
-##### WebhookSpammer - Spams a Discord Webhook with custom text.
-##### GmailSpammer - Spams a Gmail Account (beware that your spam email could/will be banned).
-##### UserHunter - Searches a Username over many public social networks and other websites.
-##### ProxyGen - Generates Proxies in mass for your own uses.
-##### ProxyCheck - Determines if proxies are valid or invalid without wasting time.
-##### TokenLogger - Preset Token logger will generate a file under your name to log discord tokens.
-##### SelfBot - Perfect bot to utilise the functionality of a bot in the comfort of your account.
-##### Casino - A small casino mini-game to pass time whilst utilising the tools features.
-##### NitroSniper - A useful tool to await for a nitro gift before sniping it with great accuracy. 
+### Rias Toolset: 
+##### Nuke Bot
+##### User Hunter
+##### Token Logger
+##### Self Spammer
+##### Webhook Spammer
+##### Email Spammer
+##### Proxy Generator
+##### Proxy Checker
+##### Token Generator
+##### Account Nuke 
+##### Brute Force
+##### Self Bot
+##### Mini Casino
+##### Nmap Scanner 
+##### Site-Links Scanner 
+##### HTTP Header 
+##### IP Locator 
+##### DOS Platform 
+##### IP Sniffer 
+##### Network Pinger
+##### DNS Search 
+##### Reverse DNS Search 
+##### Discord VC Sniffer 
+##### Traceroute 
+##### SMS OSINT 
+##### Anti - Nmap 
+##### Fake Virus 
+##### Key Log Gen 
+##### CC Gen 
+##### IP Response Test
+##### App ID Lookup 
+##### User ID Lookup 
+##### Guild ID Lookup 
+##### Token Nuker
+##### Link To QR Code Gen
+##### RAT Generator
+##### Base 64 Encryption/Decryption
+##### CSGO Wallhacks
+##### CSGO Anti Flash
+##### CSGO Third Person
+##### CSGO Radar Cheats
+##### Nitro Gen
+##### Network Device Scanner
+##### Omeagle IP/Location Tracker
+##### Nitro Sniper (Broke)
+##### Number to Location 
 #####
         Plus Dozens of other features+ 
 ---
