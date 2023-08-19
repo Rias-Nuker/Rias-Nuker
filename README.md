@@ -96,7 +96,7 @@
 ##### Nitro Sniper (Broke)
 ##### Number to Location 
 #####
-        Plus Dozens of other features+ 
+        All tools Above come standard with the base purhcase of Rias, Additional tools may be avaliable for purchase in the future
 ---
 
 We hope that this text has helped you!
